@@ -247,7 +247,7 @@ tables:
                principal: 0
                indexed: 0
                std: 0
-               column_order: 11
+               column_order: 12
             type: timestamp with time zone
          release_required: !Column
             defaultvalue: false
